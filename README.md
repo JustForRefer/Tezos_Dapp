@@ -1,6 +1,6 @@
 # Tezos_Dapp
 
-<h2> Purpose of the project 👀<h2>
+<h2> Purpose of the project<h2>
   
  <h4> Pandemic has affected almost every person irrespective of their occupation. It has been really tough for Art creators to sell their products during the pandemic and also for the Art
 lovers/buyers to buy these traditional amazing artwork as travelling is not easy. Hence the problem I am trying to solve is for the art lovers to interact and explore art through this decentralised
