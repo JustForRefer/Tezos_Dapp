@@ -1,3 +1,3 @@
 # Tezos_Dapp
 
-A Decentralized application which
+<h3> A Decentralized application which
