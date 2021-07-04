@@ -6,7 +6,7 @@
 lovers/buyers to buy these traditional amazing artwork as travelling is not easy. Hence the problem I am trying to solve is for the art lovers to interact and explore art through this decentralised
 system on the blockchain.Through this project I am creating more jobs as the volunteers would help these Art sellers on the blockchain and also helping the livelihood of these Art sellers (eg-who make Warli paintings) who 
 come from poor background and due to the pandemic they are not able to sell their art. I am also encouraging creative and artistic development during the lockdown as more people 
-will shift to create digital art and use this opportunity to the fullest using this platform. There are lot of things that I want to add on this application which will make it a much more scalable project which is solving a really big problem.</h4
+will shift to create digital art and use this opportunity to the fullest using this platform. There are lot of things that I want to add on this application which will make it a much more scalable project which is solving a really big problem.</h4>
   
   
   
