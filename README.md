@@ -1,4 +1,4 @@
-# Tezos_Dapp
+# Tezos Decentralised Application
 
 <h2> Purpose of the project 👀<h2>
   
